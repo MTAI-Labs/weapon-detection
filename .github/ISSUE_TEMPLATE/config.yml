@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📋 Project Management
+    url: https://github.com/orgs/MTAI-Labs/projects
+    about: View all tickets in GitHub Projects
